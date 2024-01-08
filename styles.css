@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Poppins:wght@300;800&display=swap');
+
+body {
+    background-color: #00703C;
+}
+
+.maintext {
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 60px;
+    color: white;
+}
+
+.mainsubtext {
+    font-family: 'Poppins', monospace;
+    color: white;
+    text-align: center;
+}
+
+.ols-heading {
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+}
+
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-image {
+    width: 500px;
+    max-height: 100%;
+}
